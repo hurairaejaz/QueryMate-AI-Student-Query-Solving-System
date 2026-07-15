@@ -66,3 +66,23 @@ Thumbs.db
 
 # Google Cloud credentials
 backend/src/credentials/
+
+# Flutter
+App/build/
+App/.dart_tool/
+App/.flutter-plugins
+App/.flutter-plugins-dependencies
+App/.packages
+
+# Dart
+App/.dart_tool/package_config.json
+
+# Android
+App/android/.gradle/
+
+# iOS
+App/ios/Pods/
+App/ios/.symlinks/
+
+# VS Code
+App/.vscode/
