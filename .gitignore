@@ -1,0 +1,68 @@
+############################
+# Python
+############################
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+############################
+# Python Virtual Environment
+############################
+backend/myenv/
+venv/
+.venv/
+
+############################
+# Environment Variables
+############################
+.env
+.env.*
+backend/.env
+frontend/.env.local
+
+############################
+# Hugging Face Models
+############################
+backend/models/
+!backend/models/.gitkeep
+
+############################
+# Temporary Uploads
+############################
+backend/temp_uploads/
+backend/uploads/
+
+############################
+# Node
+############################
+frontend/node_modules/
+
+############################
+# Next.js
+############################
+frontend/.next/
+out/
+
+############################
+# VS Code
+############################
+.vscode/
+
+############################
+# macOS
+############################
+.DS_Store
+
+############################
+# Windows
+############################
+Thumbs.db
+
+############################
+# Logs
+############################
+*.log
+
+# Google Cloud credentials
+backend/src/credentials/
