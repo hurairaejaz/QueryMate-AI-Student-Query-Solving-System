@@ -4,7 +4,7 @@
 
 # QueryMate - AI Student Query Solving System
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=AI-Powered+Student+Query+Solving+System;FastAPI+%7C+Flutter+%7C+Next.js+%7C+PostgreSQL;AI Enginee+%2B+Retrieval-Augmented+Generation+(RAG);Designed+for+University+Academic+and+Administrative+Support)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=AI-Powered+Student+Query+Solving+System;FastAPI+%7C+Flutter+%7C+Next.js+%7C+PostgreSQL;AI+Enginee+%2B+Retrieval-Augmented+Generation+(RAG);Designed+for+University+Academic+and+Administrative+Support)](https://git.io/typing-svg)
 
 </div>
 
